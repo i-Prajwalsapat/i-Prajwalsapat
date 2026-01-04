@@ -5,13 +5,11 @@
 - Java Development
 - Problem-Solving and Innovation
 
-### 🌟 Training Completed:
-I have successfully completed the **Java Full Stack Junior Developer (JFSJD)**  training offered by **Generation India** and **Vinsys IT Services**.
-
 ### 🛠 Skills:
-- **Backend Development:**  Java, Spring Boot Framework, MySQL
-- **Frontend Development:** HTML5, CSS3, Bootstrap, JavaScript, Angular
+- **Backend Development:**  Java, Spring Boot Framework, MySQL, postgres SQL
+- **Frontend Development:** HTML5, CSS3, Bootstrap, JavaScript, React jS, Angular
 - **Advanced Java Programming:** Collections, Generics, Design Patterns
+- **Project Management:** Jira, Jira Service Management (JSM), Confluence
 
 ### 💞️ I’m looking to collaborate on:
 - Innovative web development projects
