@@ -1,5 +1,5 @@
 # 👋 Hi, I’m @i-Prajwalsapat
-I’m an Atlassian Product Expert specializing in Jira, Jira Service Management, Confluence, and Bitbucket, with hands-on experience in solution implementation, configuration, customization, automation, and administration across enterprise environments. I also bring a strong foundation in Java and Full Stack Development.
+I’m an **Atlassian Product Expert** specializing in Jira, Jira Service Management, Confluence, and Bitbucket, with hands-on experience in solution implementation, configuration, customization, automation, and administration across enterprise environments. I also bring a strong foundation in **Java and Full Stack Development**.
 ### 👀 I’m interested in:
 - Atlassian Platform & Solution Implementation
 - Jira Software & Jira Service Management
@@ -46,4 +46,4 @@ I’m an Atlassian Product Expert specializing in Jira, Jira Service Management,
 - He/Him
 
 ### ⚡ Fun fact:
-- I transitioned from Electrical Engineering to Software Development and Atlassian Solutions, combining development knowledge with hands-on experience in designing and implementing enterprise Jira solutions.
+- I transitioned from **Electrical Engineering** to Software Development and Atlassian Solutions, combining development knowledge with hands-on experience in designing and implementing enterprise Jira solutions.
